@@ -1,0 +1,30 @@
+.top{
+    background-color: #00AEED;
+}
+.top2{
+    background-color: #404040;
+}
+.intype{
+    background-color: #C1C1C1;
+}
+button{
+    width: 50px;
+    margin: 10px;
+}
+.plus{
+    height: 80px;
+    margin-top: -80px;
+    position: absolute;
+    bottom: 0%;
+}
+.abs{
+    position: relative;
+}
+.calc{
+    width: 400px;
+  
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
